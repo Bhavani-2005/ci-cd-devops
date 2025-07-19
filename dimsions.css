@@ -1,0 +1,48 @@
+body {
+    background-image: url('images/images.jpg');  
+    background-size: cover;                      
+    background-repeat: no-repeat;              
+    background-position: center;                 
+    height: 100vh;                               
+    margin: 0;                                   
+    font-family: sans-serif;  
+}                   
+
+.c1 {
+    font-size: 2rem;
+    color: white; 
+}
+
+.c2 {
+    font-size: 3rem;
+    color: white;
+}
+
+.my_div {
+    font-size: 2rem;
+    color: white;
+}
+
+.c3 {
+    font-size: 1em;
+    color: white;
+}
+
+.percent_cls {
+    width: 400px;
+    height: 250px;
+    border: 1px solid #ff00a2;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1); 
+    color: white;
+}
+
+.c4 {
+    width: 100%;
+    color: white;
+}
+
+.c5 {
+    width: 50vw;
+    color: white;
+}
